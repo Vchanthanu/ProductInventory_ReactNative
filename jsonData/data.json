@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "image": "https://www.deere.co.in/assets/images/region-1/products/tractor/e-series/5060E_Tractor_John_Deere_large_68c7a96cb1c1a809edb5fb43a2986afc5bbd8fa3.png",
+      "name": "Tractor 5400",
+      "companyName": "TAFE",
+      "price": "74998",
+      "category": "Machinery",
+      "stock": 12,
+      "description": "A tractor is an engineering vehicle for the purposes of hauling a trailer or machinery such as that used in agriculture or construction.",
+      "id": 3
+    },
+    {
+      "image": "https://4.imimg.com/data4/RF/CO/MY-18005874/2-1-hand-and-battery-power-sprayer-500x500.jpg",
+      "name": "Pesticide sprayer",
+      "companyName": "007 Sprayer",
+      "price": "1000",
+      "category": "Tools",
+      "stock": 58,
+      "description": "Model : Gold 16L 12V/12AH , Weight : 6 KG Capacity : 16 Liters",
+      "id": 6
+    },
+    {
+      "image": "https://www.dksh.com/media/284/279/3cx-02-1000.jpg",
+      "name": "JCB",
+      "companyName": "TAFE",
+      "price": "999999",
+      "category": "Machinery",
+      "stock": 4,
+      "description": "TorqueLock to reduce fuel consumption and increase top speeds.",
+      "id": 7
+    },
+    {
+      "image": "https://s3.amazonaws.com/machinenmotor/media_149186_9535822070.jpg",
+      "name": "Tiller",
+      "companyName": "TAFE",
+      "price": "50000",
+      "category": "Machinery",
+      "stock": 5,
+      "description": "Used mainly in small level farm fields",
+      "id": 8
+    }
+  ]
+}
